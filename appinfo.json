@@ -1,0 +1,33 @@
+{
+  "uuid": "0aa4ba3e-03bd-4054-b37c-7a072224f4f5",
+  "shortName": "Rock, Paper, Scissors",
+  "longName": "Rock, Paper, Scissors",
+  "companyName": "Alexander Hripak",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_ROCK",
+        "file": "images/rock.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_PAPER",
+        "file": "images/paper.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SCISSORS",
+        "file": "images/scissors.png"
+      }
+    ]
+  }
+}
